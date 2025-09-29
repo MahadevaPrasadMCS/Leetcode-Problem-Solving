@@ -10,7 +10,7 @@ class Solution(object):
         #Empty list to store triplets.
         triplets = []
       
-        if nums > 2:
+        if len(nums) > 2:
             n = len(nums)
           
             #Outerloop to fix one element of the triplets.
