@@ -8,3 +8,10 @@
   - Array/List size less than 3  
   - Duplicate elements  
 
+## Day 2
+- Solved **LeetCode Problem 16: 3Sumclosest**  
+- Approach: **Two-pointer technique**  
+- Handled edge cases:  
+  - Array/List size less than 3  
+  - Duplicate elements
+  - Updating the closest_sum when there is a best difference.
