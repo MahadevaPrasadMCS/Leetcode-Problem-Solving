@@ -15,3 +15,11 @@
   - Array/List size less than 3  
   - Duplicate elements
   - Updating the closest_sum when there is a best difference.
+
+## Day 3
+- Solved **LeetCode Problem 18: 4Sum**  
+- Approach: **Two-pointer technique**  
+- Handled edge cases:  
+  - Array/List size less than 4  
+  - Duplicate elements
+  - Updating the two pointers and storing valid quadruplets
