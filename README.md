@@ -25,20 +25,19 @@
   - Updating the two pointers and storing valid quadruplets.
 
 ## Day 4
-- Solved **LeetCode Problem : 4Sum**  
-- Approach: **Two-pointer technique**  
-- Handled edge cases:  
-  - Array/List size less than 4  
-  - Duplicate elements
-  - Updating the two pointers and storing valid quadruplets.
+- Solved **LeetCode Problem 11: Container with most water**  
+- Approach: **Two pointer approach**  
+- Handled edge cases:
+  - Computing max_area based on minimum height from the left or right.
+  - Updating the two pointers and storing valid max_area.
 
 ## Day 5
-- Solved **LeetCode Problem 31: 4Sum**  
-- Approach: **Two-pointer technique**  
+- Solved **LeetCode Problem 31: Finding the next permutation**  
+- Approach: **Two pointers and swapping**  
 - Handled edge cases:  
-  - Array/List size less than 4  
-  - Duplicate elements
-  - Updating the two pointers and storing valid quadruplets.
+  - Finding first drop in the list.
+  - Swapping the elements.
+  - Reversing the right part of list.
 
 ## Day 6
 - Solved **LeetCode Problem 35: Search insert position**  
