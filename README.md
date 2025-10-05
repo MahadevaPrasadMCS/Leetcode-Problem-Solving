@@ -22,4 +22,27 @@
 - Handled edge cases:  
   - Array/List size less than 4  
   - Duplicate elements
-  - Updating the two pointers and storing valid quadruplets
+  - Updating the two pointers and storing valid quadruplets.
+
+## Day 4
+- Solved **LeetCode Problem : 4Sum**  
+- Approach: **Two-pointer technique**  
+- Handled edge cases:  
+  - Array/List size less than 4  
+  - Duplicate elements
+  - Updating the two pointers and storing valid quadruplets.
+
+## Day 5
+- Solved **LeetCode Problem 31: 4Sum**  
+- Approach: **Two-pointer technique**  
+- Handled edge cases:  
+  - Array/List size less than 4  
+  - Duplicate elements
+  - Updating the two pointers and storing valid quadruplets.
+
+## Day 6
+- Solved **LeetCode Problem 35: Search insert position**  
+- Approach: **Binary Search**  
+- Handled edge cases:   
+  - Finding the element based mid value.
+  - The last value of left index the expected index.
