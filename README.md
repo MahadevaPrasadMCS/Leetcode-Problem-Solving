@@ -52,3 +52,11 @@
 - Handled edge cases:   
   - Finding the longest substring using sliding window and HashTable.
   - The shrinking or expandng window using two pointers.
+
+ ## Day 8
+- Solved **LeetCode Problem 49: Finding anagram**  
+- Approach: **Sorting and Hashtable(dictionary)**  
+- Handled edge cases:
+  - Using a defaultdict() from collections to create a dictionary of values stored as list.  
+  - Finding the key for dictionary using join() and sorted() methods.
+  - Returning the list of values.
