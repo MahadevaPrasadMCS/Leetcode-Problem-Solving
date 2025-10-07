@@ -45,3 +45,10 @@
 - Handled edge cases:   
   - Finding the element based mid value.
   - The last value of left index the expected index.
+  
+## Day 7
+- Solved **LeetCode Problem 3: Finding longest substring without repeating character**  
+- Approach: **Sliding Window**  
+- Handled edge cases:   
+  - Finding the longest substring using sliding window and HashTable.
+  - The shrinking or expandng window using two pointers.
