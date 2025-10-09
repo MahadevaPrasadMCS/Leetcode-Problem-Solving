@@ -54,9 +54,17 @@
   - The shrinking or expandng window using two pointers.
 
  ## Day 8
-- Solved **LeetCode Problem 49: Finding anagram**  
+- Solved **LeetCode Problem 49: Finding anagrams**  
 - Approach: **Sorting and Hashtable(dictionary)**  
 - Handled edge cases:
   - Using a defaultdict() from collections to create a dictionary of values stored as list.  
   - Finding the key for dictionary using join() and sorted() methods.
   - Returning the list of values.
+ 
+ ## Day 9
+- Solved **LeetCode Problem 33: Searching in sorted and rotated array**  
+- Approach: **Binary search**  
+- Handled edge cases:
+  - Finding which half is sorted.  
+  - Finding which pointer to move(left or move).
+  - Returning -1 if the element is not found.
