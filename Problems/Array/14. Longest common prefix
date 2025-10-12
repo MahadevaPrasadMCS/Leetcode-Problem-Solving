@@ -1,0 +1,24 @@
+class Solution(object):
+    def longestCommonPrefix(self, strs):
+        """
+        :type strs: List[str]
+        :rtype: str
+        """
+
+        sorted_list = sorted(strs)
+
+        #pointers to move in string
+        i = sorted_list[0]
+        k = 0
+        j = sorted_list[-1]
+
+        long_pref = ""
+        if not i or not j:
+            return ""
+        else:
+            while k < len(i) and k < len(j):
+                if i[k] != j[k]:
+                    return long_pref
+                long_pref += i[k]
+                k += 1
+        return long_pref
