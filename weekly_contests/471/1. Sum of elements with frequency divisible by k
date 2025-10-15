@@ -1,0 +1,17 @@
+class Solution(object):
+    def sumDivisibleByK(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: int
+        """
+        frequency = {}
+        sum = 0
+        #Find frequencies of numbers
+        for num in nums:
+            frequency[num] = frequency.get(num,0) + 1
+        #Check frequencies divisible by k and add them
+        for num in nums:
+            if frequency[num] % k == 0:
+                sum += num
+        return sum
