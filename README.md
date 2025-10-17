@@ -1,5 +1,5 @@
 # Leetcode-Problem-Solving
-📝 A collection of LeetCode problems I’ve solved. 💡 Solutions with explanations to understand the approach. 🚀 Organized by difficulty and problem type. 🎯 Practicing daily to get better at algorithms and data structures. 🔗 Feel free to explore, learn, and suggest improvements!
+📝 A collection of LeetCode prohttps://github.com/notificationsblems I’ve solved. 💡 Solutions with explanations to understand the approach. 🚀 Organized by difficulty and problem type. 🎯 Practicing daily to get better at algorithms and data structures. 🔗 Feel free to explore, learn, and suggest improvements!
 
 ## Day 1  
 - Solved **LeetCode Problem 15: 3Sum**  
@@ -68,3 +68,11 @@
   - Finding which half is sorted.  
   - Finding which pointer to move(left or move).
   - Returning -1 if the element is not found.
+ 
+ ## Day 10
+- Solved **LeetCode Problem 167 and 169: Two sum II and Majority element**  
+- Approach: **Two pointers and Hashtable**  
+- Handled edge cases:
+  - Finding difference and returning added indices.  
+  - Finding frequencies of all numbers.
+  - Returning the number which has high frequency.
