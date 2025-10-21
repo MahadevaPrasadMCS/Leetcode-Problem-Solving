@@ -76,3 +76,11 @@
   - Finding difference and returning added indices.  
   - Finding frequencies of all numbers.
   - Returning the number which has high frequency.
+ 
+ ## Day 11
+- Solved **LeetCode Problem 17: Letter Combination of a number**  
+- Approach: **Backtracking and Hashtable**  
+- Handled edge cases:
+  - Finding strings of different digits.
+  - Backtracking until all combination with a digit is found.
+  - Checking that digits are not empty.
