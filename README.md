@@ -84,3 +84,12 @@
   - Finding strings of different digits.
   - Backtracking until all combination with a digit is found.
   - Checking that digits are not empty.
+ 
+ ## Day 12
+- Solved **LeetCode Problem 28: Finding the first occurrence of the matching string**  
+- Approach: **Two pointers and string matching**  
+- Handled edge cases:
+  - Finding the maximum length to be matched.
+  - Using slicing to find substring from the given array.
+  - Returning the first index where strings matched.
+  
