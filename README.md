@@ -93,3 +93,10 @@
   - Using slicing to find substring from the given array.
   - Returning the first index where strings matched.
   
+ ## Day 13
+- Solved **LeetCode Problem 58: Length of the last word in the string**  
+- Approach: **String strip and split**  
+- Handled edge cases:
+  - Used strip method to remove whitespaces from starting and ending of the string.
+  - Used split method to get a list of words excluding spaces.
+  - Returning the last word from list.
